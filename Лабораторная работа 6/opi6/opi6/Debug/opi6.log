@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (opi6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  case1.cpp
+E:\1yniver\ОПИ\Лабораторная работа 6\opi6\opi6\case1.cpp(7,8): warning C4101: l: неиспользованная локальная переменная
+  case3.cpp
+  lr6_01.cpp
+  case2.cpp
+E:\1yniver\ОПИ\Лабораторная работа 6\opi6\opi6\case2.cpp(8,8): warning C4101: r: неиспользованная локальная переменная
+  symbol.cpp
+  Создание кода...
+  opi6.vcxproj -> E:\1yniver\ОПИ\Лабораторная работа 6\opi6\Debug\lr6_01.exe
